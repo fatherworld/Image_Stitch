@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\Core">
+      <UniqueIdentifier>{e09febee-d457-49d3-98f5-db2480d8908f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Core">
+      <UniqueIdentifier>{0979d472-7f7c-47a3-b921-db054a5fac52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\DebugTools">
+      <UniqueIdentifier>{d219c3e6-5165-44df-9cea-e8c173b5f0b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\DebugTools">
+      <UniqueIdentifier>{2ae5c5df-ce67-442e-8bd3-0d4ffd79c883}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Interface">
+      <UniqueIdentifier>{ef22a244-793c-4d08-94ba-e74ea3e197fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Interface">
+      <UniqueIdentifier>{7c1f5d12-b9ed-40be-8c05-b187bf6fa1a1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ImageStitchDll.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Core\include\ASiftParameter.h">
+      <Filter>头文件\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Core\include\CBuffer.h">
+      <Filter>头文件\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Core\include\featMatching.h">
+      <Filter>头文件\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Core\include\keyPoint.h">
+      <Filter>头文件\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Core\include\Surf.h">
+      <Filter>头文件\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\DebugTools\include\AlvaTimer.h">
+      <Filter>头文件\DebugTools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\DebugTools\include\BMP.h">
+      <Filter>头文件\DebugTools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\DebugTools\include\Dump.h">
+      <Filter>头文件\DebugTools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\DebugTools\include\ISLog.h">
+      <Filter>头文件\DebugTools</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Interface\Include\Algorithm.h">
+      <Filter>头文件\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Interface\Include\ComputeHMatrix.h">
+      <Filter>头文件\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Interface\Include\CutImage.h">
+      <Filter>头文件\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Interface\Include\Flow.h">
+      <Filter>头文件\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Interface\Include\ImageIS.h">
+      <Filter>头文件\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Interface\Include\ImagePathInfo.h">
+      <Filter>头文件\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Interface\Include\IS.h">
+      <Filter>头文件\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Interface\Include\ISStruct.h">
+      <Filter>头文件\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Interface\Include\ReadDir.h">
+      <Filter>头文件\Interface</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Core\include\matrix.h">
+      <Filter>头文件\Core</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageStitchDll.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Core\src\ASiftParameter.c">
+      <Filter>源文件\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Core\src\CBuffer.c">
+      <Filter>源文件\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Core\src\featMatching.c">
+      <Filter>源文件\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Core\src\keyPoint.c">
+      <Filter>源文件\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Core\src\Surf.c">
+      <Filter>源文件\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\DebugTools\src\AlvaTimer.c">
+      <Filter>源文件\DebugTools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\DebugTools\src\Dump.c">
+      <Filter>源文件\DebugTools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\DebugTools\src\LoadBMP.c">
+      <Filter>源文件\DebugTools</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Interface\Src\Algorithm.cpp">
+      <Filter>源文件\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Interface\Src\ComputeHMatrix.cpp">
+      <Filter>源文件\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Interface\Src\CutImage.cpp">
+      <Filter>源文件\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Interface\Src\Flow.cpp">
+      <Filter>源文件\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Interface\Src\ImageIS.cpp">
+      <Filter>源文件\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Interface\Src\ImagePathInfo.cpp">
+      <Filter>源文件\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Interface\Src\IS.cpp">
+      <Filter>源文件\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Interface\Src\ReadDir.cpp">
+      <Filter>源文件\Interface</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Core\src\martix.cpp">
+      <Filter>源文件\Core</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,60 @@
+﻿  ASiftParameter.c
+  CBuffer.c
+  featMatching.c
+  keyPoint.c
+  Surf.c
+  AlvaTimer.c
+  Dump.c
+  LoadBMP.c
+..\..\..\..\DebugTools\src\LoadBMP.c(50): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+..\..\..\..\DebugTools\src\LoadBMP.c(83): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+..\..\..\..\DebugTools\src\LoadBMP.c(203): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+..\..\..\..\DebugTools\src\LoadBMP.c(237): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+..\..\..\..\DebugTools\src\LoadBMP.c(286): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+..\..\..\..\DebugTools\src\LoadBMP.c(320): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+..\..\..\..\DebugTools\src\LoadBMP.c(383): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+..\..\..\..\DebugTools\src\LoadBMP.c(442): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  martix.cpp
+..\..\..\..\Core\src\martix.cpp(254): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+..\..\..\..\Core\src\martix.cpp(354): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+..\..\..\..\Core\src\martix.cpp(355): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+..\..\..\..\Core\src\martix.cpp(356): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Algorithm.cpp
+..\..\..\..\Interface\Src\Algorithm.cpp(32): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+..\..\..\..\Interface\Src\Algorithm.cpp(40): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+..\..\..\..\Interface\Src\Algorithm.cpp(41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+..\..\..\..\Interface\Src\Algorithm.cpp(42): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+..\..\..\..\Interface\Src\Algorithm.cpp(81): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+..\..\..\..\Interface\Src\Algorithm.cpp(113): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+..\..\..\..\Interface\Src\Algorithm.cpp(114): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  ComputeHMatrix.cpp
+  Flow.cpp
+  ImageIS.cpp
+  ImagePathInfo.cpp
+  IS.cpp
+  ReadDir.cpp
+..\..\..\..\Interface\Src\ReadDir.cpp(22): warning C4244: “=”: 从“intptr_t”转换到“long”，可能丢失数据
+..\..\..\..\Interface\Src\ReadDir.cpp(57): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+..\..\..\..\Interface\Src\ReadDir.cpp(197): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  CutImage.cpp
+..\..\..\..\Interface\Src\CutImage.cpp(64): warning C4018: “>”: 有符号/无符号不匹配
+..\..\..\..\Interface\Src\CutImage.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+..\..\..\..\Interface\Src\CutImage.cpp(134): warning C4018: “>”: 有符号/无符号不匹配
+..\..\..\..\Interface\Src\CutImage.cpp(140): warning C4018: “<”: 有符号/无符号不匹配
+..\..\..\..\Interface\Src\CutImage.cpp(368): warning C4838: 从“double”转换到“float”需要收缩转换
+..\..\..\..\Interface\Src\CutImage.cpp(368): warning C4305: “初始化”: 从“double”到“float”截断
+..\..\..\..\Interface\Src\CutImage.cpp(369): warning C4838: 从“double”转换到“float”需要收缩转换
+..\..\..\..\Interface\Src\CutImage.cpp(369): warning C4305: “初始化”: 从“double”到“float”截断
+..\..\..\..\Interface\Src\CutImage.cpp(370): warning C4838: 从“double”转换到“float”需要收缩转换
+..\..\..\..\Interface\Src\CutImage.cpp(370): warning C4305: “初始化”: 从“double”到“float”截断
+..\..\..\..\Interface\Src\CutImage.cpp(370): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+..\..\..\..\Interface\Src\CutImage.cpp(402): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+..\..\..\..\Interface\Src\CutImage.cpp(403): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  demo_ASIFT.cpp
+demo_ASIFT.cpp(47): warning C4101: “nOkImages”: 未引用的局部变量
+  正在生成代码
+e:\ys_alva\tortoise_svn_ws\imagestitching_imp\branches\shan.ye\imagestitching_imp_v0\core\src\martix.cpp(37): warning C4715: “mul_maritx”: 不是所有的控件路径都返回值
+  All 535 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ImageStitch.vcxproj -> E:\ys_alva\tortoise_SVN_WS\ImageStitching_IMP\branches\Shan.Ye\ImageStitching_IMP_v0\Test\Windows\ImageStitch\x64\Release\ImageStitch.exe
+  ImageStitch.vcxproj -> E:\ys_alva\tortoise_SVN_WS\ImageStitching_IMP\branches\Shan.Ye\ImageStitching_IMP_v0\Test\Windows\ImageStitch\x64\Release\ImageStitch.pdb (Full PDB)

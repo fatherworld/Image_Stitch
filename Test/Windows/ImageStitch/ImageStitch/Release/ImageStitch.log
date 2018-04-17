@@ -1,0 +1,21 @@
+﻿  CutImage.cpp
+..\..\..\..\Interface\Src\CutImage.cpp(64): warning C4018: “>”: 有符号/无符号不匹配
+..\..\..\..\Interface\Src\CutImage.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+..\..\..\..\Interface\Src\CutImage.cpp(134): warning C4018: “>”: 有符号/无符号不匹配
+..\..\..\..\Interface\Src\CutImage.cpp(140): warning C4018: “<”: 有符号/无符号不匹配
+..\..\..\..\Interface\Src\CutImage.cpp(369): warning C4838: 从“double”转换到“float”需要收缩转换
+..\..\..\..\Interface\Src\CutImage.cpp(369): warning C4305: “初始化”: 从“double”到“float”截断
+..\..\..\..\Interface\Src\CutImage.cpp(370): warning C4838: 从“double”转换到“float”需要收缩转换
+..\..\..\..\Interface\Src\CutImage.cpp(370): warning C4305: “初始化”: 从“double”到“float”截断
+..\..\..\..\Interface\Src\CutImage.cpp(371): warning C4838: 从“double”转换到“float”需要收缩转换
+..\..\..\..\Interface\Src\CutImage.cpp(371): warning C4305: “初始化”: 从“double”到“float”截断
+..\..\..\..\Interface\Src\CutImage.cpp(371): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+..\..\..\..\Interface\Src\CutImage.cpp(403): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+..\..\..\..\Interface\Src\CutImage.cpp(404): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码
+  0 of 543 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    14 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ImageStitch.vcxproj -> E:\ys_alva\tortoise_SVN_WS\ImageStitching_IMP\branches\Shan.Ye\ImageStitching_IMP_v0\Test\Windows\ImageStitch\Release\ImageStitch.exe
+  ImageStitch.vcxproj -> E:\ys_alva\tortoise_SVN_WS\ImageStitching_IMP\branches\Shan.Ye\ImageStitching_IMP_v0\Test\Windows\ImageStitch\Release\ImageStitch.pdb (Full PDB)

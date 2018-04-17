@@ -1,0 +1,25 @@
+﻿  featMatching.c
+  Algorithm.cpp
+  CutImage.cpp
+..\..\..\..\Interface\Src\CutImage.cpp(64): warning C4018: “>”: 有符号/无符号不匹配
+..\..\..\..\Interface\Src\CutImage.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+..\..\..\..\Interface\Src\CutImage.cpp(134): warning C4018: “>”: 有符号/无符号不匹配
+..\..\..\..\Interface\Src\CutImage.cpp(140): warning C4018: “<”: 有符号/无符号不匹配
+..\..\..\..\Interface\Src\CutImage.cpp(403): warning C4838: 从“double”转换到“float”需要收缩转换
+..\..\..\..\Interface\Src\CutImage.cpp(403): warning C4305: “初始化”: 从“double”到“float”截断
+..\..\..\..\Interface\Src\CutImage.cpp(404): warning C4838: 从“double”转换到“float”需要收缩转换
+..\..\..\..\Interface\Src\CutImage.cpp(404): warning C4305: “初始化”: 从“double”到“float”截断
+..\..\..\..\Interface\Src\CutImage.cpp(405): warning C4838: 从“double”转换到“float”需要收缩转换
+..\..\..\..\Interface\Src\CutImage.cpp(405): warning C4305: “初始化”: 从“double”到“float”截断
+..\..\..\..\Interface\Src\CutImage.cpp(405): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+..\..\..\..\Interface\Src\CutImage.cpp(437): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+..\..\..\..\Interface\Src\CutImage.cpp(438): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+    正在创建库 E:\ys_alva\tortoise_SVN_WS\ImageStitching_IMP\branches\Shan.Ye\ImageStitching_IMP_v0\Test\Windows\ImageStitchDll\Release\ImageStitchDll.lib 和对象 E:\ys_alva\tortoise_SVN_WS\ImageStitching_IMP\branches\Shan.Ye\ImageStitching_IMP_v0\Test\Windows\ImageStitchDll\Release\ImageStitchDll.exp
+  正在生成代码
+e:\ys_alva\tortoise_svn_ws\imagestitching_imp\branches\shan.ye\imagestitching_imp_v0\core\src\martix.cpp(37): warning C4715: “mul_maritx”: 不是所有的控件路径都返回值
+  16 of 578 functions ( 2.8%) were compiled, the rest were copied from previous compilation.
+    3 functions were new in current compilation
+    18 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ImageStitchDll.vcxproj -> E:\ys_alva\tortoise_SVN_WS\ImageStitching_IMP\branches\Shan.Ye\ImageStitching_IMP_v0\Test\Windows\ImageStitchDll\Release\ImageStitchDll.dll
+  ImageStitchDll.vcxproj -> E:\ys_alva\tortoise_SVN_WS\ImageStitching_IMP\branches\Shan.Ye\ImageStitching_IMP_v0\Test\Windows\ImageStitchDll\Release\ImageStitchDll.pdb (Full PDB)
